@@ -33,6 +33,9 @@ body {
 .image-footer {
 	display:flex;
 	justify-content: space-between;
+	border-bottom:1px solid #ccc;
+	height:50px;
+	line-height:50px;
 
 }
 
